@@ -1,0 +1,8 @@
+{
+  "name": "hundred-movies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Romain Laurent <romain.laurent@cdiscount.com>",
+  "license": "MIT",
+  "private": true
+}
