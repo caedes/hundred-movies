@@ -1,3 +1,5 @@
+import "./default.css";
+
 import Greetings from "./Greetings";
 
 const greetings = new Greetings("Romain");
